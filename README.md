@@ -1,0 +1,1 @@
+ran rails new new_options -B which doesn't run bundle install when creating app.
